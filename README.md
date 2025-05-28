@@ -5,9 +5,7 @@ Flutter x Firebase Masterclass journal project
 
 <ins>Task:</ins> Flutter Firebase Masterclass
 
-<ins>Notes:</ins>
-
-Firebase - Storage - Auth (Including Google Sign In) - Hosting
+<ins>Notes:</ins> Firebase - Storage - Auth (Including Google Sign In) - Hosting
 
 # <ins>Project Overview</ins>
 0. Setup - Connect your flutter app to the Firebase console
