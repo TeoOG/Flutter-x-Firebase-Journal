@@ -17,7 +17,7 @@ Firebase - Storage - Auth (Including Google Sign In) - Hosting
 7. Storage - upload images
 8. Hosting
 
-## <ins>0. Setup = Connect your flutter app to the Firebase console</ins>
+## <ins>0. Setup - Connect your flutter app to the Firebase console</ins>
 description: Create a Notes CRUD app
 <ins>steps</ins>:
   1. Go to firebase console and create a new project
