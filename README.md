@@ -2,8 +2,11 @@
 Flutter x Firebase Masterclass journal project
 
 <ins>Date:</ins> 28-5-2025
+
 <ins>Task:</ins> Flutter Firebase Masterclass
+
 <ins>Notes:</ins>
+
 Firebase - Storage - Auth (Including Google Sign In) - Hosting
 
 # <ins>Project Overview</ins>
